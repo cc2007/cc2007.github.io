@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://cc2007.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-07-31T08:14:12.409Z</updated>
+    <title>Blog</title>
+    <updated>2021-07-31T08:21:43.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://cc2007.github.io/"/>
     <link rel="self" href="http://cc2007.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>http://cc2007.github.io/images/avatar.png</logo>
     <icon>http://cc2007.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://cc2007.github.io/post/hello-gridea/</id>
-        <link href="http://cc2007.github.io/post/hello-gridea/">
+        <id>http://cc2007.github.io/hello-gridea/</id>
+        <link href="http://cc2007.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
